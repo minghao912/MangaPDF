@@ -1,4 +1,4 @@
-./node_modules
-./input
-./upscaled
-./output
+node_modules/
+input/
+upscaled/
+output/
