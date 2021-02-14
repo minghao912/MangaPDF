@@ -7,4 +7,5 @@ By default, images are put into the ./input directory, upscaled and de-noised im
 
 
 # Sample
+You should probably download this image and view it, it takes a very long time to load and you can't even see the differences in this preview window.
 ![sample](sample-01.png)
